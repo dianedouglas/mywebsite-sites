@@ -1,0 +1,4 @@
+[submodule "all/modules/contrib/features"]
+	path = all/modules/contrib/features
+	url = http://git.drupal.org/project/features.git
+	branch = 7.x-2.x
