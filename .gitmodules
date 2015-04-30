@@ -2,3 +2,7 @@
 	path = all/modules/contrib/features
 	url = http://git.drupal.org/project/features.git
 	branch = 7.x-2.x
+[submodule "all/default/contrib/test-backup-migrate"]
+	path = all/default/contrib/test-backup-migrate
+	url = http://git.drupal.org/project/backup_migrate.git
+	branch = 7.x-3.x
